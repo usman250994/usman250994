@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **enterprise-grade, event-driven architectures** and scalable microservices using **C#**, TypeScript, and Azure cloud.
-- 🌱 I’m actively sharpening my **Go (Golang)** and **AWS** skills (see my [go-learning](https://github.com/usman250994/go-learning) repo!) and next up is **FastAPI** for robust backend services.
+- 🌱 I’m actively sharpening my **Go (Golang)** and **AWS** skills (see my [go-serverless-microservices-boiler plate](https://github.com/usman250994/go-serverless-microservices) repo!) and next up is **FastAPI** for robust backend services.
 - 👯 I’m looking to collaborate on innovative **MVPs**, open-source cloud projects, and AI/NLP applications.
 - 🤔 I’m looking for help with **advanced Go patterns** and best practices for distributed systems.
 - 💬 Ask me about **Golang, TypeScript, Node.js, React, Angular, NestJS, AWS (Cognito, DynamoDB), event-driven & microservices architecture, and machine learning/AI**.
