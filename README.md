@@ -21,6 +21,7 @@
 - 🌱 I’m actively sharpening my **Go (Golang)** and **AWS** skills (see my [go-serverless-microservices-boiler plate](https://github.com/usman250994/go-serverless-microservices) repo!) and next up is **FastAPI** for robust backend services.
 - 👯 I’m looking to collaborate on innovative **MVPs**, open-source cloud projects, and AI/NLP applications.
 - 🤔 I’m looking for help with **advanced Go patterns** and best practices for distributed systems.
+- 🏆 NestJS Specialist: I architect and deliver scalable microservices, API gateways, and backend platforms with NestJS, leveraging advanced patterns and integrations for real-world solutions.
 - 💬 Ask me about **Golang, TypeScript, Node.js, React, Angular, NestJS, AWS (Cognito, DynamoDB), event-driven & microservices architecture, and machine learning/AI**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui-744585132/) | [Medium](https://medium.com/@mani9418)  
 - 😄 Pronouns: he/him
