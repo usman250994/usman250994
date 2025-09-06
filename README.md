@@ -65,6 +65,13 @@
 
 ---
 
+### 💡 Philosophy
+
+> “Abstract complexity, deliver value.”
+
+I architect systems that are clean, resilient, and future-proof—whether for startups or scale-ups.
+
+
 ## ✨ Let's Connect!
 
 - Check out my [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui-744585132/) for my professional journey.
