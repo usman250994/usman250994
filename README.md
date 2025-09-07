@@ -61,7 +61,7 @@
 ## 📌 Featured Projects
 
 - [cloudyGo](https://github.com/usman250994/go-serverless-microservices) – Production-ready Go boilerplate for scalable serverless microservices on AWS. Clean Architecture, JWT auth, DynamoDB/OpenSearch, and rapid Lambda/local deployment.
-- [MicroRentXPlatform](https://github.com/usman250994/Nestjs-microservices_peer_2_peer_rental_project) – Microservices architecture for peer-to-peer rentals.
+- [MicroRentXPlatform](https://github.com/usman250994/Nestjs-microservices_peer_2_peer_rental_project) – Production-ready NestJs boilerplate for scalable microservices for peer-to-peer rentals.
 - More [repos](https://github.com/usman250994?tab=repositories) and [Medium articles](https://medium.com/@mani9418) coming soon!
 
 ---
