@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Usman Ali Siddiqui</h1>
-<h3 align="center">Senior Software Engineer | MSc Smart Computing | Event-Driven & Cloud Architecture Enthusiast</h3>
+<h3 align="center">Technical Lead | Software Architect | MSc Smart Computing | Event-Driven & Cloud Architecture Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usman-ali-siddiqui-744585132/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>
@@ -18,11 +18,10 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **enterprise-grade, event-driven architectures** and scalable microservices using **C#**, TypeScript, and Azure cloud.
-- 🌱 I’m actively sharpening my **Go (Golang)** and **AWS** skills (see my [go-serverless-microservices-boiler plate](https://github.com/usman250994/go-serverless-microservices) repo!) and next up is **FastAPI** for robust backend services.
+- 🌱 I’m actively sharpening my **Go (Golang)** and **AWS** skills
 - 👯 I’m looking to collaborate on innovative **MVPs**, open-source cloud projects, and AI/NLP applications.
-- 🤔 I’m looking for help with **advanced Go patterns** and best practices for distributed systems.
 - 🏆 NestJS Specialist: I architect and deliver scalable microservices, API gateways, and backend platforms with NestJS, leveraging advanced patterns and integrations for real-world solutions.
-- 💬 Ask me about **Golang, TypeScript, Node.js, React, Angular, NestJS, AWS (Cognito, DynamoDB), event-driven & microservices architecture, and machine learning/AI**.
+- 💬 Ask me about **Golang, TypeScript, Node.js, React, Python, Angular, NestJS, AWS (Cognito, DynamoDB), event-driven & microservices architecture, and machine learning/AI**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui-744585132/) | [Medium](https://medium.com/@mani9418)  
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Despite being only 31, I've been building production systems for 10 years and I still feel like I'm just getting started!
@@ -36,6 +35,7 @@
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -61,6 +61,8 @@
 ## 📌 Featured Projects
 
 - [cloudyGo](https://github.com/usman250994/go-serverless-microservices) – Production-ready Go boilerplate for scalable serverless microservices on AWS. Clean Architecture, JWT auth, DynamoDB/OpenSearch, and rapid Lambda/local deployment.
+- [smart system](https://github.com/usman250994/smart-system) No hallucinations. Instead of relying on the model's trained knowledge, every answer is grounded in the actual content of a document you upload
+- (AWS architecture patterns) (https://github.com/usman250994/aws-eda-saga-playground) This repo compares two practical serverless communication styles on AWS: Event Bridge and Step fucntions POC
 - [MicroRentXPlatform](https://github.com/usman250994/Nestjs-microservices_peer_2_peer_rental_project) – Production-ready NestJs boilerplate for scalable microservices for peer-to-peer rentals.
 - More [repos](https://github.com/usman250994?tab=repositories) and [Medium articles](https://medium.com/@mani9418) coming soon!
 
