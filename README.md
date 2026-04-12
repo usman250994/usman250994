@@ -20,7 +20,7 @@
 - 🔭 Currently working on **enterprise-grade, event-driven architectures** and scalable microservices using **C#**, TypeScript, and Azure cloud.
 - 🌱 I’m actively sharpening my **Go (Golang)** and **AWS** skills
 - 👯 I’m looking to collaborate on innovative **MVPs**, open-source cloud projects, and AI/NLP and RAG-based smart LLM applications.
-- 🏆 NestJS Specialist: I architect and deliver scalable microservices, API gateways, and backend platforms with NestJS, leveraging advanced patterns and integrations for real-world solutions.
+- 🏆 I architect and deliver scalable microservices, API gateways, and backend platforms by leveraging advanced patterns and integrations for real-world solutions.
 - 💬 Ask me about **Golang, TypeScript, Node.js, React, Python, Angular, NestJS, AWS (Cognito, DynamoDB), event-driven & microservices architecture, and machine learning/AI**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui-744585132/) | [Medium](https://medium.com/@mani9418)  
 - 😄 Pronouns: he/him
