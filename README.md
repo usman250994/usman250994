@@ -24,7 +24,7 @@
 - 💬 Ask me about **Golang, TypeScript, Node.js, React, Python, Angular, NestJS, AWS (Cognito, DynamoDB), event-driven & microservices architecture, and machine learning/AI**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui-744585132/) | [Medium](https://medium.com/@mani9418)  
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Despite being only 31, I've been building production systems for 10 years and I still feel like I'm just getting started!
+- ⚡ Fun fact: Despite being only 32, I've been building production systems for 10 years and I still feel like I'm just getting started!
 
 ---
 
