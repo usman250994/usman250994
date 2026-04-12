@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **enterprise-grade, event-driven architectures** and scalable microservices using **C#**, TypeScript, and Azure cloud.
 - 🌱 I’m actively sharpening my **Go (Golang)** and **AWS** skills
-- 👯 I’m looking to collaborate on innovative **MVPs**, open-source cloud projects, and AI/NLP applications.
+- 👯 I’m looking to collaborate on innovative **MVPs**, open-source cloud projects, and AI/NLP and RAG-based smart LLM applications.
 - 🏆 NestJS Specialist: I architect and deliver scalable microservices, API gateways, and backend platforms with NestJS, leveraging advanced patterns and integrations for real-world solutions.
 - 💬 Ask me about **Golang, TypeScript, Node.js, React, Python, Angular, NestJS, AWS (Cognito, DynamoDB), event-driven & microservices architecture, and machine learning/AI**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui-744585132/) | [Medium](https://medium.com/@mani9418)  
@@ -40,7 +40,7 @@
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 - **Cloud:**  
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) (Cognito, DynamoDB, Lambda, S3)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) (Cognito, DynamoDB, Lambda, S3, api gateway, SES, Stepfunctions, SQS)
 - **Architecture:**  
   Event-Driven, Microservices, Distributed Systems
 - **AI & ML:**  
