@@ -39,6 +39,7 @@
   ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 - **Cloud:**  
   ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) (Cognito, DynamoDB, Lambda, S3, api gateway, SES, Step-functions, SQS)
 - **Architecture:**  
@@ -62,8 +63,9 @@
 
 - [cloudyGo](https://github.com/usman250994/go-serverless-microservices) – Production-ready Go boilerplate for scalable serverless microservices on AWS. Clean Architecture, JWT auth, DynamoDB/OpenSearch, and rapid Lambda/local deployment.
 - [smart system](https://github.com/usman250994/smart-system) No hallucinations. Instead of relying on the model's trained knowledge, every answer is grounded in the actual content of a document you upload
-- (AWS architecture patterns) (https://github.com/usman250994/aws-eda-saga-playground) This repo compares two practical serverless communication styles on AWS: Event Bridge and Step fucntions POC
+- [AWS architecture patterns](https://github.com/usman250994/aws-eda-saga-playground) This repo compares two practical serverless communication styles on AWS: Event Bridge and Step fucntions POC
 - [MicroRentXPlatform](https://github.com/usman250994/Nestjs-microservices_peer_2_peer_rental_project) – Production-ready NestJs boilerplate for scalable microservices for peer-to-peer rentals.
+
 - More [repos](https://github.com/usman250994?tab=repositories) and [Medium articles](https://medium.com/@mani9418) coming soon!
 
 ---
