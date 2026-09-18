@@ -97,14 +97,29 @@ More on [Medium →](https://mani9418.medium.com/)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
-**Cloud & Data (AWS-first)**
+**Cloud & Data (AWS-first)** — the services actually behind Tally, 168, and the boilerplates above
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+*Compute & delivery*
+
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&labelColor=232F3E)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF9900?style=flat-square&labelColor=232F3E)
+![AWS CDK](https://img.shields.io/badge/CDK-FF9900?style=flat-square&labelColor=232F3E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+
+*Auth, orchestration & messaging*
+
+![Cognito](https://img.shields.io/badge/Cognito-FF9900?style=flat-square&labelColor=232F3E)
+![Step Functions](https://img.shields.io/badge/Step%20Functions-FF9900?style=flat-square&labelColor=232F3E)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=flat-square&labelColor=232F3E)
+![SES](https://img.shields.io/badge/SES-FF9900?style=flat-square&labelColor=232F3E)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+
+*Data & storage*
+
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&labelColor=232F3E)
+![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square&labelColor=232F3E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 **Architecture**
 
