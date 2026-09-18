@@ -3,7 +3,10 @@
 -->
 
 <h1 align="center">👋 Hi, I'm Usman Ali Siddiqui</h1>
-<h3 align="center">Technical Lead — Agentic AI Engineering & Distributed Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Technical+Lead+%E2%80%94+Agentic+AI+Engineering+%26+Distributed+Systems;Building+multi-agent+dev+pipelines+that+ship+real+PRs;Mentor.+Writer.+Still+shipping+when+time+permits." alt="Typing SVG" />
+</p>
 
 <p align="center">🇩🇪 Germany · 10+ years across FinTech, HealthCare & startups · MSc Computer Science (AI)</p>
 
