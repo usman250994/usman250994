@@ -123,6 +123,10 @@ More on [Medium →](https://mani9418.medium.com/)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&labelColor=232F3E)
 ![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square&labelColor=232F3E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&labelColor=CC2927)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 
 **Architecture**
 
