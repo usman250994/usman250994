@@ -36,7 +36,7 @@ That same way of working later built Cairn: six agent roles, four human approval
 
 **Tally** was an AI personal-finance app: track your money, set goals, and get coaching based on your real numbers. I built and shipped it on my own, with a serverless backend, encrypted data and a proper test suite. Then general AI assistants got good enough to do the coaching part with a single prompt, and the app had no real reason to exist any more. I switched it off in 2026 and put the time into Cairn.
 
-I don't count it as a failure. They taught me that building something well and building something people need are two different skills, and that knowing when to stop is part of the job.
+I don't count it as a failure. It taught me that building something well and building something people need are two different skills, and that knowing when to stop is part of the job.
 
 ## Open source
 
