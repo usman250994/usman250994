@@ -1,47 +1,53 @@
-# Usman Ali Siddiqui
+# Hi, I'm Usman
 
 **Senior Software Engineer · Technical Lead · Agentic AI & Distributed Systems**
 
-Germany (German citizen) · open to remote DE/EU · 10+ years · MSc Computer Science (AI)
+I've been building software for 10+ years and leading teams for the last few. I like finding the real problem before anyone starts building, and lately I spend most of my curiosity on how people and AI agents can build software together.
 
-[Website](https://www.maanizstudio.com) · [CV (PDF)](https://www.maanizstudio.com/assets/cv/Usman_Ali_Siddiqui_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui-744585132/) · [Medium](https://mani9418.medium.com/) · usman@maanizstudio.com
+[Website](https://www.maanizstudio.com) · [CV](https://www.maanizstudio.com/assets/cv/Usman_Ali_Siddiqui_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui/) · [Medium](https://mani9418.medium.com/)
 
 ---
 
-## What I do
+## My most recent project: Cairn
 
-I am the acting technical lead for 6 engineers at WS Audiology, on a global medical-device platform built with C#/.NET, React and Azure. When generic AI tools failed on our brownfield codebase, I built spec-driven AI skills that are now the default workflow for 10+ engineers. I work across TypeScript/Node.js, Python, C#/.NET and Go, on AWS and Azure. On my own time I build agentic systems where humans approve the spec and the merge.
+**The problem.** AI coding agents forget everything between sessions. So when my agent spends three hours on an idea that turns out to be a dead end, my teammate's agent happily walks into the same wall on Monday. Git remembers what we merged. Nothing remembers what we tried and threw away.
 
-## Featured: Cairn
+**The solution.** Cairn gives a team's agents a shared memory. When a piece of work is done, the agent leaves a few short notes: what was decided, what failed and why, what must never be touched. The next agent that opens the same repo starts with those notes already in hand. Your conversations stay on your machine; only the short notes are shared.
 
-**Shared team memory for AI coding agents.** An MCP server and npm CLI (TypeScript) on a serverless AWS API (Python), with PostgreSQL/pgvector for retrieval.
+Hikers stack stones to mark a trail for whoever comes next. Same idea, hence the name.
 
-- Brief to production in about a day, built with a six-persona Claude Code agent team and 4 human approval gates.
-- 431 automated tests. Live v1.
-- Try it: [cairn.maanizstudio.com](https://cairn.maanizstudio.com) · [npm: @maaniz/cairn](https://www.npmjs.com/package/@maaniz/cairn) (source is private)
+- Try it: [cairn.maanizstudio.com](https://cairn.maanizstudio.com)
+- Install: [`@maaniz/cairn` on npm](https://www.npmjs.com/package/@maaniz/cairn)
+- Status: version 1 is live. The source is private for now.
+
+<sub>Under the hood: an MCP server and CLI in TypeScript, a serverless Python API on AWS, Postgres with pgvector for search, 431 automated tests.</sub>
 
 ## How I build with agents
 
-- **Roles:** architect, implementer and reviewer agents, each with a narrow job and its own context.
-- **Specs and skills:** the spec is the contract. Skills encode the conventions the agents must follow.
-- **Humans in charge:** a person approves the spec and a person merges. Agents never ship alone.
+I run AI agents the way I'd run a small engineering team. An architect writes the spec, builders work on separate pieces in parallel, and an independent reviewer checks every change against the spec. People approve the plan and people approve the merge. Nothing ships on an agent's say-so.
 
-The story behind it: [I Hired a Robot Dev Team. My Architect Billed Me €40 Before Lunch.](https://ai.plainenglish.io/i-hired-a-robot-dev-team-my-architect-billed-me-40-before-lunch-e3ec65706dca)
+It didn't start out that tidy. My first version ran in the cloud, and my "architect" agent billed me €40 before lunch for one medium-sized feature. I moved the whole thing onto my own machine, tightened who does what, and got the same quality for about a quarter of the cost. The full story, mistakes included:
+
+[**I Hired a Robot Dev Team. My Architect Billed Me €40 Before Lunch.**](https://ai.plainenglish.io/i-hired-a-robot-dev-team-my-architect-billed-me-40-before-lunch-e3ec65706dca)
+
+That same way of working later built Cairn: six agent roles, four human approval gates, from a written brief to production in about a day.
+
+## Built, shipped and retired on purpose
+
+**Tally** was an AI personal-finance app: track your money, set goals, and get coaching based on your real numbers. I built and shipped it on my own, with a serverless backend, encrypted data and a proper test suite. Then general AI assistants got good enough to do the coaching part with a single prompt, and the app had no real reason to exist any more. I switched it off in 2026 and put the time into Cairn. **168**, a small app for logging where the 168 hours of your week go, retired the same day.
+
+I don't count either as a failure. They taught me that building something well and building something people need are two different skills, and that knowing when to stop is part of the job.
 
 ## Open source
 
-Earlier reference projects, built by hand to learn the fundamentals properly.
+Earlier projects, built by hand to learn the fundamentals properly.
 
 | Repo | What it is | Stack |
 |---|---|---|
 | [smart-system](https://github.com/usman250994/smart-system) | Ask questions about a PDF and get an answer with a confidence score, the source page, and an honest "not found" instead of a guess | Python, FastAPI, LangChain, FAISS |
-| [aws-eda-saga-playground](https://github.com/usman250994/aws-eda-saga-playground) | The same saga workflow built twice: EventBridge choreography vs Step Functions orchestration | Go, AWS EventBridge, Step Functions |
-| [go-serverless-microservices](https://github.com/usman250994/go-serverless-microservices) | Layered Go boilerplate for serverless microservices: one router for Lambda and local, DynamoDB, OpenSearch | Go, AWS Lambda |
-| [MicroRentXPlatform](https://github.com/usman250994/MicroRentXPlatform) | Event-driven peer-to-peer rental platform boilerplate with a BFF gateway and per-service datastores | NestJS, Kafka, Docker |
-
-## Retired, on purpose
-
-**Tally** (AI personal-finance app) and **168** (hour tracker): I built and shipped both solo, then retired them in 2026 when general AI assistants commoditised the space. I refocused on Cairn.
+| [aws-eda-saga-playground](https://github.com/usman250994/aws-eda-saga-playground) | The same workflow built twice, to compare events reacting to each other with one workflow in charge | Go, AWS EventBridge, Step Functions |
+| [go-serverless-microservices](https://github.com/usman250994/go-serverless-microservices) | A layered starting point for Go services that run on AWS Lambda or locally | Go, AWS Lambda, DynamoDB |
+| [MicroRentXPlatform](https://github.com/usman250994/MicroRentXPlatform) | A peer-to-peer rental backend split into services that talk over Kafka | NestJS, Kafka, Docker |
 
 ## Writing
 
@@ -52,3 +58,7 @@ Earlier reference projects, built by hand to learn the fundamentals properly.
 - [Building a Peer-to-Peer Rental Platform with Event-Driven Microservices](https://blog.stackademic.com/building-a-peer-to-peer-rental-platform-with-event-driven-microservices-open-source-8bfe4ff2032c)
 
 More on [Medium](https://mani9418.medium.com/).
+
+## Say hi
+
+A GitHub profile is a snapshot, and some of this is old work. By the time you read it I've probably moved on to the next problem. If you want to know what I'm working on now, or just want to talk shop, say hi: **hello@maanizstudio.com**
