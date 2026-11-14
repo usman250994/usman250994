@@ -1,6 +1,6 @@
 # Hi, I'm Usman
 
-**Senior Software Engineer · Technical Lead · Agentic AI & Distributed Systems**
+**Technical Lead · Agentic AI & Distributed Systems**
 
 I've been building software for 10+ years and leading teams for the last few. I like finding the real problem before anyone starts building, and lately I spend most of my curiosity on how people and AI agents can build software together.
 
@@ -10,15 +10,15 @@ I've been building software for 10+ years and leading teams for the last few. I 
 
 ## My most recent project: Cairn
 
-**The problem.** AI coding agents forget everything between sessions. So when my agent spends three hours on an idea that turns out to be a dead end, my teammate's agent happily walks into the same wall on Monday. Git remembers what we merged. Nothing remembers what we tried and threw away.
+**The problem.** AI coding agents forget everything between sessions, and they don't talk to each other across tools. So when my agent spends three hours on an idea that turns out to be a dead end, my teammate's agent happily walks into the same wall on Monday. Git remembers what we merged. Nothing remembers what we tried and threw away.
 
-**The solution.** Cairn gives a team's agents a shared memory. When a piece of work is done, the agent leaves a few short notes: what was decided, what failed and why, what must never be touched. The next agent that opens the same repo starts with those notes already in hand. Your conversations stay on your machine; only the short notes are shared.
+**The solution.** Cairn gives a team's agents a shared memory. When a piece of work is done, the agent leaves a few short notes: what was decided, what failed and why, what must never be touched. The next agent that opens the same repo starts with those notes already in hand, whether it runs in Claude Code, Cursor, GitHub Copilot or any other MCP client. Your conversations stay on your machine; only the short notes are shared.
 
 Hikers stack stones to mark a trail for whoever comes next. Same idea, hence the name.
 
 - Try it: [cairn.maanizstudio.com](https://cairn.maanizstudio.com)
 - Install: [`@maaniz/cairn` on npm](https://www.npmjs.com/package/@maaniz/cairn)
-- Status: version 1 is live. The source is private for now.
+- Status: version 1 is live and adopted by 3 startup engineering teams. The source is private for now.
 
 <sub>Under the hood: an MCP server and CLI in TypeScript, a serverless Python API on AWS, Postgres with pgvector for search, 431 automated tests.</sub>
 
@@ -30,13 +30,13 @@ It didn't start out that tidy. My first version ran in the cloud, and my "archit
 
 [**I Hired a Robot Dev Team. My Architect Billed Me €40 Before Lunch.**](https://ai.plainenglish.io/i-hired-a-robot-dev-team-my-architect-billed-me-40-before-lunch-e3ec65706dca)
 
-That same way of working later built Cairn: six agent roles, four human approval gates, from a written brief to production in about a day.
+That same way of working later built Cairn: six agent roles, four human approval gates, from a written brief to production in a few weeks.
 
 ## Built, shipped and retired on purpose
 
-**Tally** was an AI personal-finance app: track your money, set goals, and get coaching based on your real numbers. I built and shipped it on my own, with a serverless backend, encrypted data and a proper test suite. Then general AI assistants got good enough to do the coaching part with a single prompt, and the app had no real reason to exist any more. I switched it off in 2026 and put the time into Cairn. **168**, a small app for logging where the 168 hours of your week go, retired the same day.
+**Tally** was an AI personal-finance app: track your money, set goals, and get coaching based on your real numbers. I built and shipped it on my own, with a serverless backend, encrypted data and a proper test suite. Then general AI assistants got good enough to do the coaching part with a single prompt, and the app had no real reason to exist any more. I switched it off in 2026 and put the time into Cairn.
 
-I don't count either as a failure. They taught me that building something well and building something people need are two different skills, and that knowing when to stop is part of the job.
+I don't count it as a failure. They taught me that building something well and building something people need are two different skills, and that knowing when to stop is part of the job.
 
 ## Open source
 
