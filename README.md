@@ -4,7 +4,7 @@
 
 I've been building software for 10+ years and leading teams for the last few. I like finding the real problem before anyone starts building, and lately I spend most of my curiosity on how people and AI agents can build software together.
 
-[Website](https://www.maanizstudio.com) · [CV](https://www.maanizstudio.com/assets/cv/Usman_Ali_Siddiqui_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui/) · [Medium](https://mani9418.medium.com/)
+[Website](https://www.maanizstudio.com) · [CV](https://www.maanizstudio.com/#/cv) · [LinkedIn](https://www.linkedin.com/in/usman-ali-siddiqui/) · [Medium](https://mani9418.medium.com/)
 
 ---
 
@@ -34,7 +34,7 @@ That same way of working later built Cairn: six agent roles, four human approval
 
 ## Built, shipped and retired on purpose
 
-**Tally** was an AI personal-finance app: track your money, set goals, and get coaching based on your real numbers. I built and shipped it on my own, with a serverless backend, encrypted data and a proper test suite. Then general AI assistants got good enough to do the coaching part with a single prompt, and the app had no real reason to exist any more. I switched it off in 2026 and put the time into Cairn.
+**Tally** was an AI personal-finance app: track your money, set goals, and get coaching based on your real numbers. I built and shipped it on my own, with a serverless backend, encrypted data and a proper test suite. Then Claude launched a similar finance feature, and the app had no real reason to exist any more. I switched it off in 2026 and put the time into Cairn.
 
 I don't count it as a failure. It taught me that building something well and building something people need are two different skills, and that knowing when to stop is part of the job.
 
